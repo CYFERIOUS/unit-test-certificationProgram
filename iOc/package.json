@@ -1,0 +1,19 @@
+{
+  "name": "ioc",
+  "version": "1.0.0",
+  "description": "dependencyInjectionExcersises",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ioc",
+    "dependency",
+    "injection",
+    "unitTest",
+    "Solid"
+  ],
+  "author": "Fernando Nossa",
+  "license": "ISC"
+}
